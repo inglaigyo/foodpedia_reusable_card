@@ -83,7 +83,7 @@ const CardA = ({ data }) => {
               many non-Spaniards view it as Spain's national dish, but Spaniards
               almost unanimously consider it to be a dish from the Valencian
               region.{" "} */}
-              {data.desc}
+              {data.body}
             </div>
           </Typography>
           <CardActions disableSpacing>
