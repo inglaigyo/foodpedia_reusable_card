@@ -20,7 +20,8 @@ export default function ProfilePage() {
         width: "100%",
         display: "flex",
         flexDirection: "column",
-        alignItems: "center"
+        alignItems: "center",
+        backgroundImage: `url("")`
       }}
     >
       <CardA data={data} />
